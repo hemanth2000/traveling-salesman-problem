@@ -15,6 +15,7 @@ function setup() {
   bestRoute = cities.slice();
 }
 
+//Basic brute force method
 function draw() {
   background(0);
 
